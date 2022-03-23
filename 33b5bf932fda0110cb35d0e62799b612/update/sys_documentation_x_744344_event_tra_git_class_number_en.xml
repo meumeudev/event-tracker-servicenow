@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_744344_event_tra_git_class">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_744344_event_tra_git_class</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 12:19:20</sys_created_on>
+            <sys_id>97f533d72fda0110cb35d0e62799b653</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="event tracker github" source="x_744344_event_tra">33b5bf932fda0110cb35d0e62799b612</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="event tracker github">33b5bf932fda0110cb35d0e62799b612</sys_scope>
+            <sys_update_name>sys_documentation_x_744344_event_tra_git_class_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 12:19:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
